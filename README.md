@@ -1,2 +1,2 @@
 # TCMAI
-AI app for Chinese Medicine
+AI app for Traditional Chinese Medicine
